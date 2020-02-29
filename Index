@@ -1,5 +1,5 @@
 Monsters (alphabetically):
-Format: Name (type), lv
+Format: Name (type), lv (other notes)
 
 F
 Fantionette (fiend), lv4
@@ -9,8 +9,8 @@ W
 Walcofinde (undead), lv1
 
 
-NPCs (alphabetically by class, level):
-Format: Name, lv
+NPCs (alphabetically by class, then level, then name):
+Format: two-word name, lv (other notes)
 
 Alchemist
 Barbarian
