@@ -83,18 +83,7 @@ Yaoguai (beast), lv7
 Yellow Mold Wretch (plant), lv8
 Yeth Hound (beast), lv3
 
-NPCs (alphabetically by class, then level, then name):
-Format: two-word name, lv (other notes)
+NPCs (by level, then name and role):
+Format: lv [n] two-word name (role)
 
-Alchemist
-Barbarian
-Bard
-Champion
-Cleric
-Druid
-Fighter
-Monk
-Ranger
-Rogue
-Sorcerer
-Wizard
+lv1 silent initiate (skirmisher)
