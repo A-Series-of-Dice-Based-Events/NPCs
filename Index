@@ -4,6 +4,7 @@ Format: Name (type), lv (other notes)
 A
 Ahmuuth (monitor), lv4
 Animate Hair (ooze), lv-1
+Attic Whisperer (undead), lv4
 B
 Bloody Bones (undead), lv10
 Boggle (fey), lv8
@@ -14,6 +15,7 @@ Bonewrought Willow (plant), lv3
 C
 Celedon (Construct), lv1
 Clacking Skull Swarm (undead), lv10
+Clockwork Soldier (construct), lv6
 Crypt Flower (plant), lv7
 Crypt Thing (undead), lv5
 D
@@ -39,6 +41,7 @@ Horn Caterpillar (animal), lv1
 Kalavakus (fiend), lv10
 L
 Living Wall (construct), lv4
+Living Topiary (plant), lv4
 Llorona (undead), lv11
 Lovelorn (undead), lv4
 Lurker in Light (fey), lv5
@@ -77,6 +80,7 @@ W
 Walcofinde (undead), lv1
 Weedwhip (plant), lv2
 Witchcrow (animal), lv3
+Wood Golem (construct), lv6
 Wyrwood Rogue (construct), lv1
 Y
 Yaoguai (beast), lv7
@@ -87,3 +91,4 @@ NPCs (by level, then name and role):
 Format: lv [n] two-word name (role)
 
 lv1 silent initiate (skirmisher)
+lv5 evoker (arcane caster)
